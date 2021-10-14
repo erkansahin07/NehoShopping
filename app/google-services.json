@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610767361830",
+    "project_id": "nehoshopping",
+    "storage_bucket": "nehoshopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610767361830:android:32f9bd0ef6dc32711453e7",
+        "android_client_info": {
+          "package_name": "com.ekoo321.nehoshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610767361830-0rpc9sj95185d95343l27ni73rpaq4nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcd9J-cM2W8yXwt2YbjbZt_izX9mG7K5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610767361830-0rpc9sj95185d95343l27ni73rpaq4nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
